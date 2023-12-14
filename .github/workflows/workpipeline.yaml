@@ -76,4 +76,4 @@ jobs:
           SLACK_MESSAGE: 'Success'
           SLACK_TITLE: Post Title
           SLACK_USERNAME: gitAction
-          SLACK_WEBHOOK: ${{ secrets.WEB_HOOK }}
+          SLACK_WEBHOOK: ${{ secrets.WEB_HOOK2 }}
