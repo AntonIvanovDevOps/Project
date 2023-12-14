@@ -6,7 +6,7 @@
 ---
 
 ## Pipeline.High Level Design
-![project](https://github.com/AntonIvanovDevOps/Project/assets/145385643/67cca0b9-6665-4962-96af-2c81f10e6498)
+![project](project.png)
 ---
 
 ## Technologies which were used in project
