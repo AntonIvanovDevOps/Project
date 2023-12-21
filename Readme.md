@@ -6,7 +6,7 @@
 ---
 
 ## Pipeline.High Level Design
-![project](project.png)
+![project](pipeline.jpeg)
 ---
 
 ## Technologies which were used in project
