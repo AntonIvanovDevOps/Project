@@ -2,7 +2,6 @@ replicaCount: 2
 
 image:
   repository: antonivanovdevops/wordpress
-  # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
 service:
